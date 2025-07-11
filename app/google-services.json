@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847420289555",
+    "project_id": "firestoreapp-ccb4e",
+    "storage_bucket": "firestoreapp-ccb4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847420289555:android:bbafa4a0261753afe2c5e6",
+        "android_client_info": {
+          "package_name": "com.surajvanshsv.firestoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDhPKhk2d0zdnzbcGNa61RVg0Yk6LDkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
